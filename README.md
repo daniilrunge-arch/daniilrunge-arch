@@ -1,16 +1,31 @@
-## Hi there 👋
+# Привет! 👋 Я Даниил
 
-<!--
-**daniilrunge-arch/daniilrunge-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Обо мне
+Я разработчик и участник **Rext** — один из разработчиков проекта. Увлекаюсь программированием, разработкой игровых серверов и открытым исходным кодом.
 
-Here are some ideas to get you started:
+## Текущие проекты
+- **Rext** — участник и разработчик проекта
+- **TShock** — работаю с платформой TShock
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Навыки
+- **Языки программирования**: C#, JavaScript, Python, TypeScript
+- **Специализация**: Game Development, Server Development, TShock
+- **Фреймворки**: React, Node.js
+- **Базы данных**: PostgreSQL, MongoDB
+- **Инструменты**: Git, Docker, GitHub
+
+## Мои проекты
+Здесь ты найдёшь мои личные проекты, разработки и контрибьюции.
+
+## Статистика GitHub
+![Статистика](https://github-readme-stats.vercel.app/api?username=daniilrunge-arch&show_icons=true&theme=dark)
+
+## Контакты и ссылки
+- **Telegram**: [@Daniilrun177](https://t.me/Daniilrun177)
+- **Мой форум**: [forum.caxarok.ru](https://forum.caxarok.ru)
+- **Rext-Gaming**: Rext-Gaming.com (скоро откроется)
+
+---
+*Спасибо, что посетил мой профиль!* ⭐
+
+Если интересуют мои проекты или хочешь сотрудничать — пиши в Telegram!
