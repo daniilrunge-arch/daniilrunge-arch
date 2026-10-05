@@ -8,7 +8,7 @@ I enjoy programming, game server development, TShock, and open-source projects.
 ## Current Projects
 - **Rext** — member and developer of the project
 - **TShock** — working with the TShock platform
-- <img width="295" height="84" alt="image" src="https://github.com/user-attachments/assets/7f2e7beb-5ce1-450c-b462-48b8709f81de" />
+ <img width="295" height="84" alt="image" src="https://github.com/user-attachments/assets/7f2e7beb-5ce1-450c-b462-48b8709f81de" />
 
 ## Skills
 - **Programming Languages**: C#, Java, JavaScript, TypeScript
