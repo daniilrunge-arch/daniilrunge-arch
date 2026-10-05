@@ -1,36 +1,36 @@
-# Привет! 👋 Я Даниил
+# Hello! 👋 I'm Daniil
 
-## Обо мне
-Я разработчик и участник проекта **Rext** — один из разработчиков.  
-Увлекаюсь программированием, разработкой игровых серверов, TShock и open-source проектами.
+## About Me
+I am a developer and a member of the **Rext** project — one of the developers of this project.  
+I enjoy programming, game server development, TShock, and open-source projects.
 
-## Текущие проекты
-- **Rext** — участник и разработчик проекта
-- **TShock** — работаю с платформой TShock
+## Current Projects
+- **Rext** — member and developer of the project
+- **TShock** — working with the TShock platform
 
-## Навыки
-- **Языки программирования**: C#, Java, JavaScript, TypeScript
-- **Специализация**: Game Development, Server Development, TShock
-- **Фреймворки**: React, Node.js
-- **Базы данных**: PostgreSQL, MongoDB
-- **Инструменты**: Git, Docker, GitHub
+## Skills
+- **Programming Languages**: C#, Java, JavaScript, TypeScript
+- **Specialization**: Game Development, Server Development, TShock
+- **Frameworks**: React, Node.js
+- **Databases**: PostgreSQL, MongoDB
+- **Tools**: Git, Docker, GitHub
 
-## Мои проекты
-Здесь ты найдёшь мои личные разработки, игровые проекты и контрибьюции.
+## My Projects
+Here you can find my personal projects, game development work, and contributions.
 
-## GitHub статистика
+## GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daniilrunge-arch&show_icons=true&theme=dark)
 
-## Самые используемые языки
+## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilrunge-arch&layout=compact&theme=dark&langs_count=8)
 
-## Контакты и ссылки
+## Contact & Links
 - **Telegram**: [@Daniilrun177](https://t.me/Daniilrun177)
-- **Мой форум**: [forum.caxarok.ru](https://forum.caxarok.ru)
+- **My Forum**: [forum.caxarok.ru](https://forum.caxarok.ru)
 - **Rext-Gaming**: [Rext-Gaming.com](https://Rext-Gaming.com)
 
 ---
 
-*Спасибо, что посетил мой профиль!* ⭐
+*Thanks for visiting my profile!* ⭐
 
-Если тебе интересно сотрудничество или разработка проектов — пиши в Telegram!
+If you are interested in collaboration or project development, feel free to message me on Telegram!
