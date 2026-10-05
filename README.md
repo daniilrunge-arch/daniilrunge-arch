@@ -1,5 +1,4 @@
 # Hello! 👋 I'm Daniil
-<img width="144" height="144" alt="image" src="https://github.com/user-attachments/assets/5903bd37-7ea8-4b6a-aa42-ddec50e65f20" />
 
 ## About Me
 I am a developer and a member of the **Rext** project — one of the developers of this project.  
@@ -8,7 +7,7 @@ I enjoy programming, game server development, TShock, and open-source projects.
 ## Current Projects
 - **Rext** — member and developer of the project
 - **TShock** — working with the TShock platform
- <img width="295" height="84" alt="image" src="https://github.com/user-attachments/assets/7f2e7beb-5ce1-450c-b462-48b8709f81de" />
+<img width="317" height="84" alt="image" src="https://github.com/user-attachments/assets/0029b9c1-e85c-4c0a-96b5-f2de81d40348" />
 
 ## Skills
 - **Programming Languages**: C#, Java, JavaScript, TypeScript
