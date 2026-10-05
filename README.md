@@ -1,4 +1,5 @@
 # Hello! 👋 I'm Daniil
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/95973a81-f5dd-4d46-bd3f-8815b35e95ae" />
 
 ## About Me
 I am a developer and a member of the **Rext** project — one of the developers of this project.  
