@@ -4,8 +4,8 @@
 I am a developer and a core member of the **Rext** project. I have a deep passion for programming, open-source software, and game server development — specifically focusing on **Terraria (TShock API)** and custom server architectures.
 
 ## Current Projects
-- **Rext** — Active developer and project contributor.
-- **Terraria / TShock** — Developing custom plugins, server tools, and modifications for the TShock server platform.
+- **Rext** Active developer and project contributor.
+- **Terraria / TShock**  Developing custom plugins, server tools, and modifications for the TShock server platform.
 <img width="317" height="84" alt="TShock Logo" src="https://github.com/user-attachments/assets/0029b9c1-e85c-4c0a-96b5-f2de81d40348" />
 
 ## Skills
